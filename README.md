@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ideepankarsharma2003
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently learning Computer Vision and Natural Language Processing
 - 💞️ I’m looking to collaborate on Machine Learning, Deep Learning, Python, R 
 - 📫 How to reach me, +919639102031
 
