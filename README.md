@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C, C++, Python, Machine Learning, Deep Learning**
 
-- 📫 How to reach me **DEEPANKARSHARMA.20041299@gehu.ac.in**
+- 📫 How to reach me **deepankarsharma2003@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/deepankar-sharma-5b364319b/](https://www.linkedin.com/in/deepankar-sharma-5b364319b/)
 
