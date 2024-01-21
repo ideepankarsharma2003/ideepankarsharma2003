@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **C, C++, Python, Machine Learning, Deep Learning**
 
-- 📫 How to reach me **deepankarsharma2003@gmail.com**
+- 📫 **[How to reach me](deepankarsharma2003@gmail.com)**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/deepankar-sharma-5b364319b/](https://www.linkedin.com/in/deepankar-sharma-5b364319b/)
+- 📄 **[Know about my experiences](https://www.linkedin.com/in/ideepankarsharma2003/)**
 
 - ⚡ Fun fact **More Study More Confusion, No Study No Confusion**
 
