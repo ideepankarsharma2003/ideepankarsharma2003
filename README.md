@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://avatars.githubusercontent.com/u/74599435?v=4" alt="ideepankarsharma2003" style="width:100px;height:100px;border-radius:50%;"/></a> </p>
 
-- 🔭 I’m currently working on **Natural Language Processing**
+- 🔭 I’m currently working on **Generative AI, NLP, LLMs, Graph RAG, Computer Vision**
 
-- 🌱 I’m currently learning **Cloud APIs, Tensorflow and Keras, Development and Deployment Frameworks, Python, R**
+- 🌱 I’m currently learning **Blockchain, Web3 & Decentralized Applications**
 
 - 👯 I’m looking to collaborate on **Computer Vision, NLP, Augmented Reality**
 
-- 💬 Ask me about **C, C++, Python, Machine Learning, Deep Learning**
+- 💬 Ask me about **C, C++, Python, Machine Learning, Deep Learning, Gen AI**
 
 - 📫 **[How to reach me](deepankarsharma2003@gmail.com)**
 
